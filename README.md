@@ -1,3 +1,14 @@
+# opinion-ate
+
+An app for tracking reviews of dishes at different restaurants.
+
+Production: <https://opinion-ate-react-group-19.netlify.app>
+
+This project was bootstrapped with
+[Create React App](https://github.com/facebook/create-react-app).
+
+Dependencies are locked with a `yarn.lock` file, so please use `yarn` instead of `npm` to install them.
+
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=13710474)
 # Use this repository to do lab exercises based on the textbook "Outside-In React Development"
 
